@@ -1,9 +1,6 @@
 Finance team
     Charles
     Lisa
-<<<<<<< master
-    John
-=======
     
     John
     
@@ -23,4 +20,3 @@ Marketing team
     Mocorgan
     
     Amanda
->>>>>>> local
