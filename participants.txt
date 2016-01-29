@@ -1,4 +1,26 @@
 Finance team
     Charles
     Lisa
+<<<<<<< master
     John
+=======
+    
+    John
+    
+    Stacy
+    
+    Alexander
+    
+    
+Marketing team
+
+    Collins
+    
+    Linda
+    
+    Patricia
+    
+    Mocorgan
+    
+    Amanda
+>>>>>>> local
